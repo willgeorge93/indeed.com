@@ -1,0 +1,529 @@
+,title,company,location,salary,country,currency
+0,Senior Data Engineer (Machine Learning & AI use cases),Nuvola Resourcing,Chertsey,65000.0,england,GBP
+1,Data Scientist,Sykes Cottages,Chester CH1 3BQ,45000.0,england,GBP
+2,Data Scientist,Public Health England,Colindale NW9,36011.0,england,GBP
+3,Higher Statistical Data Scientist - across the GSS,UK Government - Government Statistical Service,Croydon,26401.0,england,GBP
+4,Senior Statistical Data Scientist - across the GSS,UK Government - Government Statistical Service,Croydon,34090.0,england,GBP
+5,Junior data science engineer,KC TECH PVT LTD,Dartford DA1 5GA,23000.0,england,GBP
+6,Data Scientist,NHS Midlands and Lancashire Commissioning Support...,Leyland PR26 6TR,48710.5,england,GBP
+7,"AI Advisory / Data Science Advisory, Senior Manager",Lawrence Harvey,London,120000.0,england,GBP
+8,AI Architect – London,kdr Recruitment,London,85000.0,england,GBP
+9,Agile Project Manager - Data Analytics,ShareForce,London,67500.0,england,GBP
+10,Analytics Consultant,Harnham,London,45000.0,england,GBP
+11,Big Data DevOps Engineer,Ripjar,London,45000.0,england,GBP
+12,"Big Data Engineer - Hadoop, Spark, AWS",Vertus Partners,London,105000.0,england,GBP
+13,"Big Data Engineer - Hadoop, Spark, Cloud",Vertus Partners,London,105000.0,england,GBP
+14,Big Data Engineering Lead,Touchpoint Resource Ltd,London,100000.0,england,GBP
+15,Big Data Lead,Linux Recruit,London,87500.0,england,GBP
+16,Big Data Solutions Architect – London,kdr Recruitment,London,90000.0,england,GBP
+17,Big Data and Data Science Platforms - Tech lead - FS,Lorien,London,75000.0,england,GBP
+18,"C++ Developer - Risk, Machine Learning - London",Linux Recruit,London,90000.0,england,GBP
+19,Computer Vision Machine Learning Engineer,GCS Recruitment Specialists Ltd,London,65000.0,england,GBP
+20,Customer-Facing Data Scientists - London,Mudano,London,55000.0,england,GBP
+21,DATA SCIENCE TEAM LEAD - FINTECH,Kite Group,London,95000.0,england,GBP
+22,DATA SCIENTIST | VERV | LONDON OR SHEFFIELD,Austin Consultants,London,60000.0,england,GBP
+23,Data Engineer – Specialty Analytics,"Data Science Works, Inc",London,70000.0,england,GBP
+24,Data Science Consultant,Harnham,London,77500.0,england,GBP
+25,Data Science Consultant,Harnham,London,55000.0,england,GBP
+26,Data Science Manager,Harnham,London,75000.0,england,GBP
+27,Data Science and Analytics Consultant/Researcher,Datatech Analytics,London,60000.0,england,GBP
+28,Data Science – Recruitment Consultant – City of London,Permanent People,London,37000.0,england,GBP
+29,Data Scientist,Ambassador Theatre Group,London,45000.0,england,GBP
+30,Data Scientist,Datasource,London,40000.0,england,GBP
+31,Data Scientist,Fable Data,London,42500.0,england,GBP
+32,Data Scientist,Blue Pelican,London,47500.0,england,GBP
+33,Data Scientist,Hasson Associates,London,47500.0,england,GBP
+34,Data Scientist,Curation Zone,London,75000.0,england,GBP
+35,Data Scientist,Paramount Recruitment Ltd,London,56000.0,england,GBP
+36,Data Scientist,EMR Marketing Recruitment,London,62000.5,england,GBP
+37,Data Scientist,Creatus IT Recruitment,London,45000.0,england,GBP
+38,Data Scientist,McGregor Boyall,London,47500.0,england,GBP
+39,Data Scientist,Blue Legal,London,47500.0,england,GBP
+40,Data Scientist,Circadia Health,London,80000.0,england,GBP
+41,Data Scientist,Credit Kudos,London,65000.0,england,GBP
+42,Data Scientist,Movement8,London,52500.0,england,GBP
+43,Data Scientist (Energy / Decarbonisation),Amida Recruitment Limited,London,67500.0,england,GBP
+44,Data Scientist (Multiple Seniorities),Harnham,London,75000.0,england,GBP
+45,Data Scientist (Product),Harnham,London,70000.0,england,GBP
+46,Data Scientist (m/w/d),"Data Science Works, Inc",London,72500.0,england,GBP
+47,Data Scientist - FTC - 3- Month Rolling Contract,The JM Group,London,70000.0,england,GBP
+48,Data Scientist - Machine Learning (Python/SQL),Linux Recruit,London,85000.0,england,GBP
+49,Data Scientist - Predictive Analytics,Opus Recruitment Solutions,London,70000.0,england,GBP
+50,Data Scientist - Retail,Harnham,London,67500.0,england,GBP
+51,Data Scientist / AI Engineer,Deerfoot,London,80000.0,england,GBP
+52,Data Scientist Director,Harnham,London,100000.0,england,GBP
+53,Data Scientist Python - Hedge Fund,Client Server,London,80000.0,england,GBP
+54,Data Scientist Python PhD,Client Server,London,72500.0,england,GBP
+55,Data Scientist – Independent Media Agency,Silverdrum,London,40000.0,england,GBP
+56,Data Scientist – Insurance,Lawes Group,London,42500.0,england,GBP
+57,Data Scientist – London,kdr Recruitment,London,50000.0,england,GBP
+58,Data Scientist/ Senior Data Scientist,Harnham,London,75000.0,england,GBP
+59,Deep Learning Engineer,IC Resources,London,70000.0,england,GBP
+60,Deep Learning Engineer,"Data Science Works, Inc",London,85000.0,england,GBP
+61,Deep Learning Engineer,IC Resources,London,60000.0,england,GBP
+62,Deep Learning Scientist,Harnham,London,82500.0,england,GBP
+63,Digital Analytics Manager,Harnham,London,55000.0,england,GBP
+64,Financial Crime Analytics Manager,Harnham,London,70000.0,england,GBP
+65,Full Cycle Data Scientist - FinTech,SoCode,London,100000.0,england,GBP
+66,Head of Data Science,Consortia,London,102500.0,england,GBP
+67,Head of Data Science,Harnham,London,115000.0,england,GBP
+68,Head of Data Science - London - (Cutting Edge NLP!!),Lawrence Harvey,London,125000.0,england,GBP
+69,Junior Data Science Consultant,Harnham,London,45000.0,england,GBP
+70,Junior Data Scientist,Harnham,London,44500.0,england,GBP
+71,"LEAD DATA ENGINEER – PYTHON, SQL – DATA SCIENCE – FINANCIAL...",Kite Group,London,90000.0,england,GBP
+72,Lead Data Science Consultant,Harnham,London,92500.0,england,GBP
+73,Lead Data Scientist,Harnham,London,90000.0,england,GBP
+74,Lead Data Scientist,Fable Data,London,70000.0,england,GBP
+75,Lead Engineer - Python - Machine Learning,Linux Recruit,London,85000.0,england,GBP
+76,Lead Machine Learning Teacher,Harnham,London,92500.0,england,GBP
+77,Lead NLP Data Scientist,Harnham,London,85000.0,england,GBP
+78,Machine Learning Developer,ECM Selection,London,60000.0,england,GBP
+79,Machine Learning Engineer,Women in Tech,London,32000.0,england,GBP
+80,Machine Learning Engineer,Harnham,London,80000.0,england,GBP
+81,Machine Learning Engineer,GCS Recruitment Specialists Ltd,London,55000.0,england,GBP
+82,Machine Learning Engineer - Golf Start-Up - Python AWS ML Pr...,Opus Recruitment Solutions,London,75000.0,england,GBP
+83,Machine Learning Engineer - Trading,Harnham,London,70000.0,england,GBP
+84,"Machine Learning Engineer; Computer Vision, Data S",re&m,London,42500.0,england,GBP
+85,Machine Learning Lead,Consortia,London,87500.0,england,GBP
+86,Machine Learning Research Engineer,Seclea,London,36000.0,england,GBP
+87,Machine Learning Research Engineer,IC Resources,London,70000.0,england,GBP
+88,Machine Learning Software Engineer,Oho Group,London,45000.0,england,GBP
+89,Machine Learning/Computer Vision Scientist (Home W,re&m,London,37500.0,england,GBP
+90,Marketing Data Scientist,Hasson Associates,London,50000.0,england,GBP
+91,Performance Analytics Manager,Blue Pelican,London,40000.0,england,GBP
+92,Polyglot Engineer (AI Start-Up) - Python/ Golang/ Javascript,GCS Recruitment Specialists Ltd,London,65500.0,england,GBP
+93,Pricing Data Scientist,ADLIB,London,55000.0,england,GBP
+94,Principal Data Scientist,Harnham,London,87500.0,england,GBP
+95,Product Analytics Manager,Blue Pelican,London,72500.0,england,GBP
+96,Product Manager (Data Science),Harnham,London,75000.0,england,GBP
+97,Product Manager - Computer Vision,Harnham,London,62500.0,england,GBP
+98,Python Developer - AI SAAS,Propel,London,70000.0,england,GBP
+99,Python Developer SQL Machine Learning AWS,Client Server,London,67500.0,england,GBP
+100,Python Engineer Machine Learning SQL,Client Server,London,60000.0,england,GBP
+101,Quantitative Financial Modeller – Balance Sheet & Analytics,Empirical Search,London,65000.0,england,GBP
+102,Recruitment Consultant - Data Science,NP Group,London,30000.0,england,GBP
+103,Research Data Scientist,Harnham,London,52500.0,england,GBP
+104,Retail Senior Data Scientist / Retail Data Science Manager,Lloyds Banking Group,London,71924.5,england,GBP
+105,"Risk Analyst - Quantitative Modelling & Analysis, RALC (SRS)",Bank of England,London,38640.0,england,GBP
+106,Senior Analytics Engineer- DBT,Harnham,London,80000.0,england,GBP
+107,Senior Business Intelligence Consultant – CRM Analytics,Centre People Appointments Ltd.,London,42500.0,england,GBP
+108,Senior Data Architect / Data Scientist - 100% Remote across...,Stanton House,London,95000.0,england,GBP
+109,Senior Data Scientist,NP Group,London,110000.0,england,GBP
+110,Senior Data Scientist,MBN Recruitment Solutions,London,75000.5,england,GBP
+111,Senior Data Scientist,Deeper Insights,London,70000.0,england,GBP
+112,Senior Data Scientist,Harnham US,London,65000.0,england,GBP
+113,Senior Data Scientist,Blue Pelican,London,65000.0,england,GBP
+114,Senior Data Scientist,CatchFish,London,67500.0,england,GBP
+115,Senior Data Scientist,Metrica Recruitment,London,92500.0,england,GBP
+116,Senior Data Scientist - 8 MONTH FTC,Harnham,London,62500.0,england,GBP
+117,Senior Data Scientist - Forecasting,Harnham,London,75000.0,england,GBP
+118,Senior Data Scientist – London,kdr Recruitment,London,82500.0,england,GBP
+119,Senior Linux/DevOps Engineer with focus on Big Data,Linux Recruit,London,72500.0,england,GBP
+120,Senior ML Engineer,Datatonic,London,68750.0,england,GBP
+121,Senior Machine Learning Engineer,Additional Resources,London,70000.0,england,GBP
+122,Senior Machine Learning Engineer,Client Server,London,92500.0,england,GBP
+123,Senior Machine Learning Scientist,NP Group,London,110000.0,england,GBP
+124,Senior Product Manager (Data Science/ AI),Harnham,London,67500.0,england,GBP
+125,Senior Research Data Scientist,Harnham,London,55000.0,england,GBP
+126,"Senior Software Engineer (Python), AI/Machine Learning - Lon...",Linux Recruit,London,80000.0,england,GBP
+127,"Senior Statistician, Data Science",Proclinical,London,65000.0,england,GBP
+128,Technical Product Manager - Data AI Machine Learning,Client Server,London,87500.0,england,GBP
+129,Transaction Monitoring Modelling & Analytics,Harnham,London,65000.0,england,GBP
+130,"VelocITy Data & AI Graduate Programme, UK",Avanade,London,30000.0,england,GBP
+131,Data Engineer – Data Science,Wilmington plc,London E1 8QS,42500.0,england,GBP
+132,Data Science Consultant (FTC),BuiltVisible,London EC1V,40000.0,england,GBP
+133,Lead/ Senior Data Scientist,Evolution Recruitment Solutions,London NW1 7JR,110000.0,england,GBP
+134,Junior Data Scientist/Analyst,Stonehaven,London SE1 1JD,27500.0,england,GBP
+135,Data Scientist,London Ambulance Service NHS Trust,London SE1 8SD,48586.5,england,GBP
+136,Machine Learning Engineer,Reqiva Ltd,London SW15 1RT,37500.0,england,GBP
+137,Technical BA - Analytics & Automation,ShareForce,London W10 5JJ,52500.0,england,GBP
+138,Machine Learning Engineer (Two way recommender systems),Roxwell Talent,London W1D 3QG,80000.0,england,GBP
+139,Data Scientist,Gerrard White Consulting Ltd,Reigate,75000.0,england,GBP
+140,Lead Data Scientist,Gerrard White Consulting Ltd,Reigate,95000.0,england,GBP
+141,Senior Data Scientist,Roxwell Talent,Soho W1F 8BH,80000.0,england,GBP
+142,"Lecturer in Climate Physics, Data Science in Climate Energy,...",Imperial College London,South Kensington,63727.5,england,GBP
+143,Senior Teaching Fellow in Business Analytics and Data Scient...,Imperial College London,South Kensington,59906.5,england,GBP
+144,artificial intelligence and machine learning researcher – kt...,aston university,birmingham,32000.0,england,GBP
+145,commercial ai researcher,harnham,birmingham,60000.0,england,GBP
+146,head of insight & analytics,harnham,birmingham,85000.0,england,GBP
+147,python backend engineer - machine learning,eligo recruitment ltd,birmingham,60000.0,england,GBP
+148,research assistant / research fellow in computer graphics an...,birmingham city university,birmingham,35798.5,england,GBP
+149,senior data scientist,harnham,birmingham,59000.0,england,GBP
+150,data scientist - python - unstructured data move to manageme...,healthtrust europe,birmingham b15,52500.0,england,GBP
+151,senior data engineer (machine learning & ai use cases),nuvola resourcing,chertsey,65000.0,england,GBP
+152,data scientist,public health england,colindale nw9,36011.0,england,GBP
+153,data analytics developer,jaguar land rover,coventry,36700.0,england,GBP
+154,ofs ai & data science business innovation development manage...,coventry university,coventry,44575.5,england,GBP
+155,product analytics manager,blue pelican,greater manchester,72500.0,england,GBP
+156,data scientist - day shift,nhs test and trace,leamington spa,34196.0,england,GBP
+157,data scientist,harnham,leeds,57500.0,england,GBP
+158,data scientist,mdsltd,leeds,62500.0,england,GBP
+159,research fellow in collective artificial intelligence for di...,university of leeds,leeds,37059.5,england,GBP
+160,senior data scientist,mdsltd,leeds,65000.0,england,GBP
+161,senior data scientist - leeds,interquest,leeds,90000.0,england,GBP
+162,"software engineer, machine learning","data science works, inc",leeds,77500.0,england,GBP
+163,junior data scientist,change grow live,leeds ls1 6jh,24425.5,england,GBP
+164,data scientist,unipart rail,leeds ls11 8jt,28000.0,england,GBP
+165,apprenticeship - data scientist level 6,covance,leeds ls2 9lh,16500.0,england,GBP
+166,data scientist,nhs midlands and lancashire commissioning support...,leyland pr26 6tr,48710.5,england,GBP
+167,ai architect – london,kdr recruitment,london,85000.0,england,GBP
+168,analytics consultant,harnham,london,45000.0,england,GBP
+169,analytics manager,blue pelican,london,70000.0,england,GBP
+170,big data and data science platforms - tech lead - fs,lorien,london,75000.0,england,GBP
+171,big data devops engineer,ripjar,london,45000.0,england,GBP
+172,"big data engineer - hadoop, spark, cloud",vertus partners,london,105000.0,england,GBP
+173,big data engineering lead,touchpoint resource ltd,london,100000.0,england,GBP
+174,big data lead,linux recruit,london,87500.0,england,GBP
+175,big data solutions architect – london,kdr recruitment,london,90000.0,england,GBP
+176,"c++ developer - risk, machine learning - london",linux recruit,london,90000.0,england,GBP
+177,computer vision machine learning engineer,gcs recruitment specialists ltd,london,65000.0,england,GBP
+178,"computer vision researcher (slam, ar)",understanding recruitment,london,82500.0,england,GBP
+179,credit risk data scientist,harnham,london,62500.0,england,GBP
+180,data analytics manager,warner scott,london,67500.0,england,GBP
+181,data analytics specialist - senior manager,mcgregor boyall,london,95000.0,england,GBP
+182,data and analytics project manager,eames consulting,london,80000.0,england,GBP
+183,data engineer,darchi digital recruitment ltd,london,50000.0,england,GBP
+184,data engineer / data scientist,propel,london,57500.0,england,GBP
+185,data engineer – specialty analytics,"data science works, inc",london,70000.0,england,GBP
+186,data science consultant,harnham,london,77500.0,england,GBP
+187,data science director,blue pelican,london,85000.0,england,GBP
+188,data science lead,iag loyalty,london,65000.0,england,GBP
+189,data science manager,np group,london,90000.0,england,GBP
+190,data science manager,harnham,london,75000.0,england,GBP
+191,data science software engineer (ai start-up) - python,gcs recruitment specialists ltd,london,65500.0,england,GBP
+192,data science team lead - fintech,kite group,london,95000.0,england,GBP
+193,data scientist,datasource,london,40000.0,england,GBP
+194,data scientist,harnham,london,60000.0,england,GBP
+195,data scientist,papercup,london,60000.0,england,GBP
+196,data scientist,applied data science partners,london,45000.0,england,GBP
+197,data scientist,government digital service,london,41408.5,england,GBP
+198,data scientist,digital republic talent,london,55000.0,england,GBP
+199,data scientist,paramount recruitment ltd,london,56000.0,england,GBP
+200,data scientist,blue legal,london,47500.0,england,GBP
+201,data scientist,h&r talent,london,60000.0,england,GBP
+202,data scientist,blue pelican,london,47500.0,england,GBP
+203,data scientist,mcgregor boyall,london,47500.0,england,GBP
+204,data scientist,curation zone,london,75000.0,england,GBP
+205,data scientist,crd recruitment,london,50000.0,england,GBP
+206,data scientist,credit kudos,london,65000.0,england,GBP
+207,data scientist,movement8,london,52500.0,england,GBP
+208,data scientist (energy / decarbonisation),amida recruitment limited,london,67500.0,england,GBP
+209,data scientist (multiple seniorities),harnham,london,75000.0,england,GBP
+210,data scientist - insurance - london,morgan mckinley,london,50000.0,england,GBP
+211,data scientist - machine learning (python/sql),linux recruit,london,85000.0,england,GBP
+212,data scientist - nhs test & trace,uk government - department of health and social ca...,london,33234.5,england,GBP
+213,data scientist - suit recent phd,talenting,london,52500.0,england,GBP
+214,data scientist / ai engineer,deerfoot,london,80000.0,england,GBP
+215,data scientist director,harnham,london,100000.0,england,GBP
+216,data scientist python - hedge fund,client server,london,80000.0,england,GBP
+217,data scientist | python | perm | london/remote,gcs recruitment specialists ltd,london,60000.0,england,GBP
+218,data scientist/ senior data scientist,harnham,london,75000.0,england,GBP
+219,full cycle data scientist - fintech,socode,london,100000.0,england,GBP
+220,graduate data scientist - sports data,bettor believe,london,37500.0,england,GBP
+221,head of data science,harnham,london,115000.0,england,GBP
+222,head of data science & analytics,harnham,london,110000.0,england,GBP
+223,"head of engineering (devops, cloud, data analytics, machine...",linux recruit,london,110000.0,england,GBP
+224,higher statistical data scientist - across the gss,uk government - government statistical service,london,26401.0,england,GBP
+225,lead data science consultant,harnham,london,92500.0,england,GBP
+226,lead data science consultant / trainer,harnham,london,75000.0,england,GBP
+227,lead data scientist,consortia,london,70000.0,england,GBP
+228,lead data scientist,fable data,london,70000.0,england,GBP
+229,lead engineer - python - machine learning,linux recruit,london,85000.0,england,GBP
+230,lead machine learning developer,ecm selection,london,62500.0,england,GBP
+231,lead machine learning teacher,harnham,london,92500.0,england,GBP
+232,lead nlp data scientist,harnham,london,85000.0,england,GBP
+233,machine learning developer,ecm selection,london,60000.0,england,GBP
+234,machine learning engineer,stem graduates,london,32000.0,england,GBP
+235,machine learning engineer,harnham,london,80000.0,england,GBP
+236,machine learning engineer,harnham,london,65000.0,england,GBP
+237,machine learning engineer,women in tech,london,32000.0,england,GBP
+238,machine learning engineer - golf start-up - python aws ml pr...,opus recruitment solutions,london,75000.0,england,GBP
+239,machine learning engineer - trading,harnham,london,70000.0,england,GBP
+240,"machine learning engineer; computer vision, data s",re&m,london,42500.0,england,GBP
+241,machine learning lead,consortia,london,87500.0,england,GBP
+242,machine learning research engineer,seclea,london,36000.0,england,GBP
+243,machine learning software engineer,oho group,london,45000.0,england,GBP
+244,modelling analytics manager,harnham,london,55000.0,england,GBP
+245,performance analytics manager,blue pelican,london,40000.0,england,GBP
+246,polyglot engineer (ai start-up) - python/ golang/ javascript,gcs recruitment specialists ltd,london,65500.0,england,GBP
+247,pricing data scientist,adlib,london,55000.0,england,GBP
+248,principal data scientist,harnham,london,87500.0,england,GBP
+249,principal geospatial data scientist- nhs test & trace,government digital service,london,55907.5,england,GBP
+250,product analytics manager,blue pelican,london,72500.0,england,GBP
+251,product manager - computer vision,harnham,london,62500.0,england,GBP
+252,python developer - ai saas,propel,london,70000.0,england,GBP
+253,python machine learning engineer - front office - investment...,vertus partners,london,130000.0,england,GBP
+254,quantitative financial modeller – balance sheet & analytics,empirical search,london,65000.0,england,GBP
+255,recruitment consultant - data science,np group,london,30000.0,england,GBP
+256,remote data scientist - python / simulation / modelling,gcs recruitment specialists ltd,london,65000.0,england,GBP
+257,remote data scientist / machine learning engineer - time ser...,gcs recruitment specialists ltd,london,65000.0,england,GBP
+258,research data scientist,harnham,london,52500.0,england,GBP
+259,retail senior data scientist / retail data science manager,lloyds banking group,london,71924.5,england,GBP
+260,"risk analyst - quantitative modelling & analysis, ralc (seniors)",bank of england,london,38640.0,england,GBP
+261,senior analytics consultant,harnham,london,45000.0,england,GBP
+262,senior analytics engineer- dbt,harnham,london,80000.0,england,GBP
+263,senior data scientist,harnham,london,47500.0,england,GBP
+264,senior data scientist,harnham us,london,65000.0,england,GBP
+265,senior data scientist,deeper insights,london,70000.0,england,GBP
+266,senior data scientist,datatonic,london,68750.0,england,GBP
+267,senior data scientist,catchfish,london,67500.0,england,GBP
+268,senior data scientist,consortia,london,85000.0,england,GBP
+269,senior data scientist (credit/ lending),harnham,london,61500.0,england,GBP
+270,senior data scientist - forecasting,harnham,london,75000.0,england,GBP
+271,senior data scientist – london,kdr recruitment,london,82500.0,england,GBP
+272,senior data scientist – marketing,data idols,london,70000.0,england,GBP
+273,senior data scientist/ principal data scientist,harnham,london,105000.0,england,GBP
+274,senior digital analytics manager,digital republic talent,london,77500.0,england,GBP
+275,senior linux/devops engineer with focus on big data,linux recruit,london,72500.0,england,GBP
+276,senior machine learning engineer,client server,london,92500.0,england,GBP
+277,"senior machine learning engineer (statistics, cloud)",understanding recruitment,london,95000.0,england,GBP
+278,senior ml engineer,datatonic,london,68750.0,england,GBP
+279,senior product manager (data science/ ai),harnham,london,67500.0,england,GBP
+280,senior research data scientist,harnham,london,55000.0,england,GBP
+281,"senior software engineer (python), ai/machine learning - lon...",linux recruit,london,80000.0,england,GBP
+282,"senior statistician, data science",proclinical,london,65000.0,england,GBP
+283,technical product manager - data ai machine learning,client server,london,87500.0,england,GBP
+284,"velocity data & ai graduate programme, uk",avanade,london,30000.0,england,GBP
+285,data science consultant (ftc),builtvisible,london ec1v,40000.0,england,GBP
+286,analytics engineer,quantspark,london ec1v 9bj,65000.0,england,GBP
+287,junior data scientist/analyst,stonehaven,london se1 1jd,27500.0,england,GBP
+288,data scientist,london ambulance service nhs trust,london se1 8sd,48586.5,england,GBP
+289,machine learning engineer,reqiva ltd,london sw15 1rt,37500.0,england,GBP
+290,technical ba - analytics & automation,shareforce,london w10 5jj,52500.0,england,GBP
+291,machine learning engineer (two way recommender systems),roxwell talent,london w1d 3qg,80000.0,england,GBP
+292,ai foundry project - technical specialist (data scientist) (...,university of salford,manchester,30573.5,england,GBP
+293,analytics consultant,harnham,manchester,55000.0,england,GBP
+294,data scientist,data idols,manchester,55000.0,england,GBP
+295,data scientist,oscar technology,manchester,47500.0,england,GBP
+296,"data scientist - birmingham, leeds or cardiff",harnham,manchester,59000.0,england,GBP
+297,head of data science – manchester - £70-120k,consult rpm,manchester,100000.0,england,GBP
+298,lead oracle analytics architect,henderson scott,manchester,100000.0,england,GBP
+299,machine learning engineer,data idols,manchester,32500.0,england,GBP
+300,machine learning engineer (flexible/remote),understanding recruitment,manchester,55000.0,england,GBP
+301,senior lecturer in cancer digital sciences and machine learn...,the university of manchester,manchester,57643.0,england,GBP
+302,soda research fellow: ai in creative media,manchester metropolitan university,manchester,46172.5,england,GBP
+303,associate product manager - reporting & analytics,n brown,manchester m60,32000.0,england,GBP
+304,associate product manager - web analytics,n brown,manchester m60,32000.0,england,GBP
+305,machine learning engineer,n brown,manchester m60,30000.0,england,GBP
+306,senior data scientist,n brown,manchester m60,55000.0,england,GBP
+307,data scientist,720 management,north london,40000.0,england,GBP
+308,data scientist,gerrard white consulting ltd,reigate,75000.0,england,GBP
+309,lead data scientist,gerrard white consulting ltd,reigate,95000.0,england,GBP
+310,data science degree apprenticeship,skipton building society,skipton,20000.0,england,GBP
+311,data scientist - health outcomes,compass life sciences,slough,53000.0,england,GBP
+312,senior data scientist,roxwell talent,soho w1f 8bh,80000.0,england,GBP
+313,"lecturer in climate physics, data science in climate energy,...",imperial college london,south kensington,63727.5,england,GBP
+314,senior teaching fellow in business analytics and data scient...,imperial college london,south kensington,59906.5,england,GBP
+315,data scientist,codeweavers,stafford,40000.0,england,GBP
+316,dio - analytics manager,uk government - ministry of defence,sutton coldfield b75 7rl,33000.0,england,GBP
+317,data scientist,tiger recruitment ltd,west london,57500.0,england,GBP
+318,data scientist,harnham,west midlands,57500.0,england,GBP
+319,junior data scientist,xcm,york yo26 7nh,22500.0,england,GBP
+320,"machine learning engineer; deep learning, data sci",re&m,yorkshire,27500.0,england,GBP
+321,avp/vp data scientist – innovation labs,tenten partners pte. ltd.,singapore,100000.0,singapore,SGD
+322,data scientist,experis singapore,singapore,90000.0,singapore,SGD
+323,data scientist,top20talent,singapore,90194.0,singapore,SGD
+324,senior data scientist,ec1 partners,singapore,180000.0,singapore,SGD
+325,Data Scientist,Aguilass llc,"Bellevue, WA",117824.0,usa,USD
+326,Lead Senior Data Scientist,The Trade Desk,"Boulder, CO",197700.0,usa,USD
+327,Machine Learning Pipeline Engineer,Pearson,"Boulder, CO",115000.0,usa,USD
+328,"Mathematician, ZP-1520-IV (GS-13/14 Equivalent)",US National Institute of Standards and Technology,"Boulder, CO",128112.0,usa,USD
+329,"Principal, Data Scientist ProServe","Amazon Web Services, Inc.","Boulder, CO",122300.0,usa,USD
+330,Senior Data Scientist - Nationwide Opportunities,"Amazon Web Services, Inc.","Boulder, CO",116200.0,usa,USD
+331,Senior Machine Learning Engineer,Pearson,"Boulder, CO",115000.0,usa,USD
+332,Product Manager - Machine Learning,Workday,"Boulder, CO 80301",100400.0,usa,USD
+333,Senior Data Scientist,Uplight,"Boulder, CO 80301",125000.0,usa,USD
+334,Associate Scientist II for Data Assimilation,University Corporation for Atmospheric Research,"Boulder, CO 80305 (Central Boulder area)",71002.0,usa,USD
+335,CIRES/NOAA PSL Ocean Data Analysis/Visualization Associate S...,University of Colorado Boulder,"Boulder, CO 80309 (Colorado University area)",67500.0,usa,USD
+336,Senior Data Analyst,Conga,"Broomfield, CO",74316.0,usa,USD
+337,Data Scientist 3,Oracle,"Broomfield, CO 80021 (Interlocken area)",139064.0,usa,USD
+338,Machine Learning Engineer: Audiences & Attributes (odc_prod-...,Oracle,"Broomfield, CO 80021 (Interlocken area)",139064.0,usa,USD
+339,Data Scientist,Wunderman Thompson,"Denver, CO",140000.0,usa,USD
+340,Data Scientist,SonderMind,"Denver, CO",110000.0,usa,USD
+341,Data Scientist - Nationwide Opportunities,"Amazon Web Services, Inc.","Denver, CO",114700.0,usa,USD
+342,Data Scientist- Biotech,Provident Research Inc,"Denver, CO",122500.0,usa,USD
+343,Senior Data Science Manager - Job Seeker Profile,Indeed,"Denver, CO",209000.0,usa,USD
+344,Sr. Data & ML Engineer,"Amazon Web Services, Inc.","Denver, CO",122300.0,usa,USD
+345,Sr. Data Scientist,VF Corporation,"Denver, CO",180000.0,usa,USD
+346,Machine Learning Engineer (NLP and Speech Recognition),"Dream Face Technologies, LLC","Denver, CO (University area)",87500.0,usa,USD
+347,Data Statistician,Jackson Lewis P.C,"Denver, CO 80202 (Central Business District area)",88500.0,usa,USD
+348,Senior Data Scientist,Verizon,"Denver, CO 80202 (Central Business District area)",144000.0,usa,USD
+349,"Senior Data Scientist, Retail",Ibotta,"Denver, CO 80202 (Central Business District area)",125000.0,usa,USD
+350,"Senior Decision Scientist, CPG",Ibotta,"Denver, CO 80202 (Central Business District area)",105000.0,usa,USD
+351,Senior Machine Learning Engineer,Ibotta,"Denver, CO 80202 (Central Business District area)",127500.0,usa,USD
+352,Sr. Data Analyst - Partner Analytics,Strive Health,"Denver, CO 80202 (Central Business District area)",89200.0,usa,USD
+353,Staff Machine Learning Engineer,Ibotta,"Denver, CO 80202 (Central Business District area)",162500.0,usa,USD
+354,Senior Clinical Data Analyst,InnovAge,"Denver, CO 80230 (Lowry Field area)",67023.5,usa,USD
+355,Senior Data Analyst Clinical,InnovAge,"Denver, CO 80230 (Lowry Field area)",56250.0,usa,USD
+356,Senior Clinical Integrated Network Data Analyst,HCA Healthcare,"Denver, CO 80237",94983.0,usa,USD
+357,Data Scientist,ModivCare,"Denver, CO 80237 (Hampden South area)",100988.0,usa,USD
+358,Sr. Business Analyst/Data Scientist,PHOENIX,"Denver, CO 80237 (Hampden South area)",70000.0,usa,USD
+359,FWA Data Scientist,ModivCare,"Denver, CO 80237 (Southeastern Denver area)",103742.5,usa,USD
+360,Data Scientist,DISH,"Englewood, CO 80112",100550.0,usa,USD
+361,Data Scientist,Augustine Institute,"Greenwood Village, CO 80111",96000.0,usa,USD
+362,Data Engineer,Xecta,"Houston, TX",125000.0,usa,USD
+363,Data Scientist - Nationwide Opportunities,"Amazon Web Services, Inc.","Houston, TX",114700.0,usa,USD
+364,Data Scientist- Biotech,Provident Research Inc,"Houston, TX",122500.0,usa,USD
+365,Supervisory Interdisciplinary Biologist/ Physical Scientist...,US Geological Survey,"Lakewood, CO 80225",125216.5,usa,USD
+366,Data Analyst,DISH,"Littleton, CO 80120",60000.0,usa,USD
+367,Data Scientist II,Sierra Nevada Corporation,"Louisville, CO 80027",105093.5,usa,USD
+368,Senior Data Engineer,OnPoint,"Louisville, CO 80027",125000.0,usa,USD
+369,Data Scientist,"Dauntless, Inc.","Redmond, WA 98052 (Downtown area)",110000.0,usa,USD
+370,Developer with Machine Learning experience,JM Talent Inc.,"Seattle, WA",109000.0,usa,USD
+371,AI/ML - Data Infrastructure Client and Tooling Engineer,Aspire Systems,"Seattle, WA 98101 (Downtown area)",132198.0,usa,USD
+372,Principal Data Scientist,Attunely,"Seattle, WA 98104 (Pioneer Square area)",180000.0,usa,USD
+373,Data Scientist,Innovar Group,"Westminster, CO",120000.0,usa,USD
+374,data scientist,game circus,"addison, tx 75001",115000.0,usa,USD
+375,senior machine learning engineer,pearson,"albany, ny 12206 (campus area (university district) area)",115000.0,usa,USD
+376,data scientist,"e-logic, inc.","atlanta, ga",87500.0,usa,USD
+377,data scientist - nationwide opportunities,"amazon web services, inc.","atlanta, ga",114700.0,usa,USD
+378,data scientist- biotech,provident research inc,"atlanta, ga",122500.0,usa,USD
+379,developer with machine learning experience,jm talent inc.,"atlanta, ga",109000.0,usa,USD
+380,senior data scientist,cedent,"atlanta, ga",117500.0,usa,USD
+381,senior data scientist - nationwide opportunities,"amazon web services, inc.","atlanta, ga",116200.0,usa,USD
+382,senior machine learning engineer,pearson,"atlanta, ga",115000.0,usa,USD
+383,specialist senior associate - ml pipelines for ai data scientis...,brilliant infotech,"atlanta, ga 30308 (downtown area)",145546.0,usa,USD
+384,senior performance analyst (data science),metropolitan atlanta rapid transit authority (mart...,"atlanta, ga 30324 (lindbergh area)",75000.0,usa,USD
+385,"senior data analyst, performance analysis",north american electric reliability corporation (n...,"atlanta, ga 30326 (buckhead area)",80000.0,usa,USD
+386,"senior data analyst - atlanta, ga",1st franklin financial corporation,"atlanta, ga 30350",70000.0,usa,USD
+387,machine learning research scientist,senseye,"austin, tx",135000.0,usa,USD
+388,senior data scientist ( security ) - remote usa,"fireeye, inc.","austin, tx",102800.0,usa,USD
+389,senior data scientist - nationwide opportunities,"amazon web services, inc.","austin, tx",116200.0,usa,USD
+390,"senior technical program manager, hybrid business/data analyst","amazon web services, inc.","austin, tx",138200.0,usa,USD
+391,data engineer - big data,ibm,"austin, tx 73301 (st edwards area)",95500.0,usa,USD
+392,senior data engineer - big data,ibm,"austin, tx 73301 (st edwards area)",119500.0,usa,USD
+393,solution architect - big data,ibm,"austin, tx 73301 (st edwards area)",163000.0,usa,USD
+394,watson health -ai development lead,ibm,"austin, tx 73301 (st edwards area)",133500.0,usa,USD
+395,planner (juvenile justice statistician),travis county,"austin, tx 78701 (downtown area)",56605.5,usa,USD
+396,senior computational physicist / applied mathematician,"nanohmics, inc.","austin, tx 78741 (parker lane area)",95000.0,usa,USD
+397,senior machine learning engineer,pearson,"austin, tx 78757 (north shoal creek area)",115000.0,usa,USD
+398,data pipeline engineering scientist r_12650,applied research laboratories,"austin, tx 78758 (north burnett area)",109000.0,usa,USD
+399,research associate - computational/data science r10831,applied research laboratories,"austin, tx 78758 (north burnett area)",102500.0,usa,USD
+400,signal processing and data analysis software engineering sci...,applied research laboratories,"austin, tx 78758 (north burnett area)",109000.0,usa,USD
+401,postdoctoral scholar - data science program - school of info...,university of california berkeley,"berkeley, ca 94720",62500.0,usa,USD
+402,lead senior data scientist,the trade desk,"boulder, co",197700.0,usa,USD
+403,machine learning pipeline engineer,pearson,"boulder, co",115000.0,usa,USD
+404,"mathematician, zp-1520-iv (gs-13/14 equivalent)",us national institute of standards and technology,"boulder, co",128112.0,usa,USD
+405,"principal, data scientist proserve","amazon web services, inc.","boulder, co",122300.0,usa,USD
+406,senior data scientist,cloud agronomics,"boulder, co",150000.0,usa,USD
+407,senior data scientist - nationwide opportunities,"amazon web services, inc.","boulder, co",116200.0,usa,USD
+408,senior machine learning engineer,pearson,"boulder, co",115000.0,usa,USD
+409,senior data scientist,uplight,"boulder, co 80301",125000.0,usa,USD
+410,associate scientist ii for data assimilation,university corporation for atmospheric research,"boulder, co 80305 (central boulder area)",71002.0,usa,USD
+411,cires/noaa psl ocean data analysis/visualization associate s...,university of colorado boulder,"boulder, co 80309 (colorado university area)",67500.0,usa,USD
+412,senior etl developer & data analyst,hra/dept of social services,"brooklyn, ny",101500.0,usa,USD
+413,data scientist,fire department,"brooklyn, ny 11201",97735.5,usa,USD
+414,senior data analyst,conga,"broomfield, co",74316.0,usa,USD
+415,"data scientist, multiple locations",lumen,"broomfield, co 80021",56610.0,usa,USD
+416,data scientist 3,oracle,"broomfield, co 80021 (interlocken area)",139064.0,usa,USD
+417,machine learning engineer: audiences & attributes (odc_prod-...,oracle,"broomfield, co 80021 (interlocken area)",139064.0,usa,USD
+418,data science and analytics lab engineer,american family insurance,"chicago, il",191000.0,usa,USD
+419,data science engineer,inspiher tech,"chicago, il",145000.0,usa,USD
+420,data scientist,inspiher tech,"chicago, il",87500.0,usa,USD
+421,data scientist,innovyt,"chicago, il",135000.0,usa,USD
+422,senior data science manager - job seeker profile,indeed,"chicago, il",209000.0,usa,USD
+423,"senior manager, data science",digital resource group llc,"chicago, il",140000.0,usa,USD
+424,staff data scientist - ai ethics,indeed,"chicago, il",174000.0,usa,USD
+425,senior data scientist / engineer,"ami group, llc","chicago, il 60601 (the loop area)",130000.0,usa,USD
+426,senior healthcare data analyst,medical home network,"chicago, il 60601 (the loop area)",106000.0,usa,USD
+427,data scientist,"evozyne, llc","chicago, il 60614 (wrightwood neighbors area)",100000.0,usa,USD
+428,data scientist,care advisors inc,"chicago, il 60654 (near north area)",100000.0,usa,USD
+429,"chief software architect, aws, big data, node.js",computer staff,"dallas, tx",170000.0,usa,USD
+430,"manager, data science - cybersecurity ( remote - usa)","fireeye, inc.","dallas, tx",116800.0,usa,USD
+431,data science analyst ii (dallas fire),"city of dallas, tx","dallas, tx 75201 (government district area)",67608.0,usa,USD
+432,data scientist (non civil service),"city of dallas, tx","dallas, tx 75201 (government district area)",90857.5,usa,USD
+433,senior data analyst,integrity marketing group,"dallas, tx 75202 (arts district area)",80000.0,usa,USD
+434,"hr data analyst, senior - diversity, equity & inclusion",oncor electric delivery,"dallas, tx 75207 (south boulevard-park row historic area)",105200.0,usa,USD
+435,data scientist,utility associates,"decatur, ga 30030 (downtown area)",122500.0,usa,USD
+436,analytic data scientist (ts/sci),ibm,"denver, co",150500.0,usa,USD
+437,data scientist,wunderman thompson,"denver, co",140000.0,usa,USD
+438,data scientist,sondermind,"denver, co",110000.0,usa,USD
+439,data scientist- biotech,provident research inc,"denver, co",122500.0,usa,USD
+440,principal data scientist,hotel engine,"denver, co",150000.0,usa,USD
+441,"principal, data scientist proserve","amazon web services, inc.","denver, co",122300.0,usa,USD
+442,senior data science manager - job seeker profile,indeed,"denver, co",209000.0,usa,USD
+443,senior data scientist,vf corporation,"denver, co",180000.0,usa,USD
+444,staff data scientist - ai ethics,indeed,"denver, co",174000.0,usa,USD
+445,machine learning engineer (nlp and speech recognition and ),"dream face technologies, llc","denver, co (university area)",87500.0,usa,USD
+446,machine learning engineer (nlp and speech recognition),"dream face technologies, llc","denver, co (university area)",87500.0,usa,USD
+447,data statistician,jackson lewis p.c,"denver, co 80202 (central business district area)",88500.0,usa,USD
+448,senior data analyst - partner analytics,strive health,"denver, co 80202 (central business district area)",89200.0,usa,USD
+449,senior data engineer,verizon,"denver, co 80202 (central business district area)",139700.0,usa,USD
+450,senior data scientist,verizon,"denver, co 80202 (central business district area)",144000.0,usa,USD
+451,"senior data scientist, retail",ibotta,"denver, co 80202 (central business district area)",125000.0,usa,USD
+452,staff machine learning engineer,ibotta,"denver, co 80202 (central business district area)",162500.0,usa,USD
+453,senior machine learning engineer,dish,"denver, co 80202 (lodo area)",137100.0,usa,USD
+454,data specialist - college of health and applied sciences,metropolitan state university of denver,"denver, co 80204 (auraria area)",56150.0,usa,USD
+455,data science director - provider contracting and network per...,cigna,"denver, co 80222 (southeastern denver area)",148600.0,usa,USD
+456,senior clinical data analyst,innovage,"denver, co 80230 (lowry field area)",67023.5,usa,USD
+457,senior data analyst clinical,innovage,"denver, co 80230 (lowry field area)",56250.0,usa,USD
+458,senior clinical integrated network data analyst,hca healthcare,"denver, co 80237",94983.0,usa,USD
+459,data scientist,modivcare,"denver, co 80237 (hampden south area)",100988.0,usa,USD
+460,senior business analyst/data scientist,phoenix,"denver, co 80237 (hampden south area)",70000.0,usa,USD
+461,fwa data scientist,modivcare,"denver, co 80237 (southeastern denver area)",103742.5,usa,USD
+462,senior data analyst,dish,"foster city, ca 94404",99360.0,usa,USD
+463,senior data analyst insurance,"csaa insurance group, a aaa insurer","glendale, az 85308 (deer valley area)",87875.0,usa,USD
+464,data analyst senior (sql),jefferson county colorado,"golden, co",70630.0,usa,USD
+465,data scientist,augustine institute,"greenwood village, co 80111",96000.0,usa,USD
+466,data engineer,xecta,"houston, tx",125000.0,usa,USD
+467,data scientist- biotech,provident research inc,"houston, tx",122500.0,usa,USD
+468,automation engineer - ai/ml,pro it inc,"irving, tx",90000.0,usa,USD
+469,machine learning engineer,iappsdata inc.,"irving, tx",109000.0,usa,USD
+470,machine learning engineer (remote - home based worker),allstate,"irving, tx",81900.0,usa,USD
+471,data scientist - marketing analytics,cottonwood financial,"irving, tx 75038 (cottonwood area)",75850.0,usa,USD
+472,supervisory interdisciplinary biologist/ physical scientist...,us geological survey,"lakewood, co 80225",125216.5,usa,USD
+473,data analyst,dish,"littleton, co 80120",60000.0,usa,USD
+474,senior data science engineer,dish,"littleton, co 80120",99360.0,usa,USD
+475,staff ai/ml engineer,dish,"littleton, co 80120",120000.0,usa,USD
+476,lead data engineer,verizon,"lone tree, co 80124",153200.0,usa,USD
+477,developer with machine learning experience,jm talent inc.,"los angeles, ca",109000.0,usa,USD
+478,lead machine learning engineer,kj consulting llc,"los angeles, ca",140000.0,usa,USD
+479,lisp engineer for ai startup (remote),mind ai,"los angeles, ca",100000.0,usa,USD
+480,product manager - artificial intelligence / machine learning,"bigbear, inc.","los angeles, ca",175363.0,usa,USD
+481,machine learning engineer,manifold valley,"los angeles, ca 90023 (boyle heights area)",110000.0,usa,USD
+482,data scientist,red dot storage,"louisville, co",110000.0,usa,USD
+483,data scientist ii,sierra nevada corporation,"louisville, co 80027",105093.5,usa,USD
+484,senior data engineer,onpoint,"louisville, co 80027",125000.0,usa,USD
+485,data scientist - nationwide opportunities,"amazon web services, inc.","new york, ny",114700.0,usa,USD
+486,senior data analyst (investment data),tiaa,"new york, ny",89900.0,usa,USD
+487,tss associate conversational ai engineer,general dynamics information technology,"new york, ny",85000.0,usa,USD
+488,tss conversational ai engineer,general dynamics information technology,"new york, ny",90000.0,usa,USD
+489,senior data engineer,onpoint,"new york, ny 10118 (chelsea area)",125000.0,usa,USD
+490,data scientist - insurance modeling,allstate,"northbrook, il",113600.0,usa,USD
+491,senior data scientist - customer intent analytics (remote -...,allstate,"northbrook, il",95000.0,usa,USD
+492,senior data scientist - sales effectiveness (remote - home b...,allstate,"northbrook, il",95000.0,usa,USD
+493,senior data scientist pricing (remote),allstate,"northbrook, il",122500.0,usa,USD
+494,electricity manager - data science and analytics,rocky mountain institute,"oakland, ca",101000.0,usa,USD
+495,robotic researcher/scientist - machine learning / deep learn...,dorabot inc.,"peachtree corners, ga 30071",105000.0,usa,USD
+496,data scientist - nationwide opportunities,"amazon web services, inc.","phoenix, az",114700.0,usa,USD
+497,encounters edi senior data analyst,cognizant technology solutions,"phoenix, az",55000.0,usa,USD
+498,encounters senior data analyst,cognizant technology solutions,"phoenix, az",65000.0,usa,USD
+499,reporting & analysis manager,state of arizona,"phoenix, az 85007 (central city area)",70000.0,usa,USD
+500,data scientists,first soft solutions [ direct],"plano, tx",80076.0,usa,USD
+501,senior data analyst,9th networks inc,"plano, tx",85622.5,usa,USD
+502,senior software engineer - machine learning,liberty mutual insurance,"plano, tx 75023",119600.0,usa,USD
+503,senior marketing and business data analyst,l-nutra inc,"plano, tx 75024",92500.0,usa,USD
+504,data scientist - nationwide opportunities,"amazon web services, inc.","portland, or",114700.0,usa,USD
+505,"city research scientist i / data analyst, bureau of hiv",dept of health/mental hygiene,"queens, ny 11101",67347.0,usa,USD
+506,"city research scientist i / data and technology analyst, bur...",dept of health/mental hygiene,"queens, ny 11101",67347.0,usa,USD
+507,senior data scientist,jgb biopharma consulting inc,"san carlos, ca 94070",157011.0,usa,USD
+508,data scientist - nationwide opportunities,"amazon web services, inc.","san francisco, ca",114700.0,usa,USD
+509,data scientist- biotech,provident research inc,"san francisco, ca",122500.0,usa,USD
+510,head of engineering and data science,change research,"san francisco, ca",165000.0,usa,USD
+511,lisp engineer for ai startup (remote),mind ai,"san francisco, ca",100000.0,usa,USD
+512,senior survey data analyst,change research,"san francisco, ca",102500.0,usa,USD
+513,"statistician pd 20r100 - office of planning, analysis and ev...",us health resources and services administration,"san francisco, ca",91388.5,usa,USD
+514,senior data scientist,"vizio, inc.","san francisco, ca 94108 (financial district area)",115151.0,usa,USD
+515,senior data scientist - nationwide opportunities,"amazon web services, inc.","santa monica, ca",116200.0,usa,USD
+516,data scientist - nationwide opportunities,"amazon web services, inc.","seattle, wa",114700.0,usa,USD
+517,data scientist,omnivis,"south san francisco, ca 94080",70000.0,usa,USD
+518,senior data scientist | fte,martian wall pvt ltd,"tempe, az",120000.0,usa,USD
+519,senior data scientist,global nephrology solutions,"tempe, az 85284",130000.0,usa,USD
+520,data scientist,innovar group,"westminster, co",120000.0,usa,USD
+521,engineer senior - machine learning/ deep learning optical,ball aerospace,"westminster, co 80021",143000.0,usa,USD
+522,Data Scientist,Experis Singapore,Singapore,90000.0,singapore,SGD
+523,Data Scientist for an AI Fintech Company,Finest People,Singapore,96000.0,singapore,SGD
+524,Data Scientist,Top20Talent,Singapore,90150.0,singapore,SGD
+525,Software Engineering Senior Manager - Application Quality,Indeed,Singapore,202000.0,singapore,SGD
+526,Senior Software Engineer (International Business Unit & Jobs...,Indeed,Singapore,128500.0,singapore,SGD
+527,"Amazon Web Services, Inc.",Data Scientist - Nationwide Opportunities,"Portland, OR",114700.0,usa,USD
